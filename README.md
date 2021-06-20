@@ -45,3 +45,4 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin:](https://img.shields.io/badge/-GUILHERME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-monteiro-lopes/)](https://www.linkedin.com/in/guilherme-monteiro-lopes/)
+[![GitHub]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/GuiMonLopes)
