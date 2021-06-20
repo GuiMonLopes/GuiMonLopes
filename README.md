@@ -44,4 +44,4 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin:](https://img.shields.io/badge/-GUILHERME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-monteiro-lopes/)](LINK-DO-SEU-LINKEDIN)
+[![Linkedin:](https://img.shields.io/badge/-GUILHERME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-monteiro-lopes/)](https://www.linkedin.com/in/guilherme-monteiro-lopes/)
