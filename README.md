@@ -37,7 +37,7 @@
 <a href="https://github.com/GuiMonLopes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiMonLopes&theme=dracula&show_icons=true" />
 </a>
-
+<br/>
 [![GuiMonLopes](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiMonLopes&hide=html&layout=compact&theme=dracula)](https://github.com/GuiMonLopes)
 
 <br/>
