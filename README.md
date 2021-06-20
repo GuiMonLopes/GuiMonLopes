@@ -44,5 +44,4 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Guilherme Lopes](https://img.shields.io/badge/-Guilherme Lopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-monteiro-lopes/)](https://www.linkedin.com/in/guilherme-monteiro-lopes/)
-[![GitHub Guilherme Lopes( https://img.shields.io/github/followers/GuiMonLopes?label=follow&style=social)](https://github.com/GuiMonLopes)
+[![Linkedin: Guilherme Lopes](https://img.shields.io/badge/-Guilherme Lopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-monteiro-lopes/)](https://www.linkedin.com/in/guilherme-monteiro-lopes/))
