@@ -2,7 +2,7 @@
 
 - 🤔 &nbsp; Em busca do aprimoramento constante.
 - 🎓 &nbsp; Garduado em ENGENHARIA ELÉTRICA na <a href="https://www.usjt.br/">Universidade São Judas Tadeu</a>.
-- 🌱 &nbsp; Aprendendo mais sobre o Java.
+- 🌱 &nbsp; Aprendendo mais sobre o JavaScript.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
