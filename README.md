@@ -2,6 +2,7 @@
 
 - 🤔 &nbsp; Em busca do aprimoramento constante.
 - 🎓 &nbsp; Graduado em ENGENHARIA ELÉTRICA na <a href="https://www.usjt.br/">Universidade São Judas Tadeu</a>.
+- 🎓 &nbsp; Graduando em Ciências de Dados na <a href="https://univesp.br/">Univesp</a>.
 - 🌱 &nbsp; Aprendendo mais sobre o JavaScript.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
